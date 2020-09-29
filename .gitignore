@@ -1,0 +1,9 @@
+.gradle/*
+.idea/*
+build/*
+gradle/*
+build.gradel
+course-info
+course-remote-info
+gradlew
+settings.gradle
