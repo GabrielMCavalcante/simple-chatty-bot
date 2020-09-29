@@ -2,8 +2,8 @@
 .idea/*
 build/*
 gradle/*
-build.gradel
-course-info
-course-remote-info
-gradlew
-settings.gradle
+build.gradel.*
+course-info.yaml
+course-remote-info.yaml
+gradlew.bat
+settings.gradle.yaml
